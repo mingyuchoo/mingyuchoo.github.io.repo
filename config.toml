@@ -5,7 +5,7 @@ languageCode = 'en-us'
 [Params]
 # Note: This is for the meta description, which is different from the
 # "description" displayed in the prompt.
-description = "Kevin Hammond's Portfolio!"
+description = "Mingyu Choo's Portfolio!"
   [Params.Prompt]
   # Note: color scheme
   # Note: You can choose between
@@ -17,7 +17,7 @@ description = "Kevin Hammond's Portfolio!"
 
   # Note: variables for GHCi heading
   # GHCi, version [ghcVersion]: [ghcURL]  :? for help
-  ghcVersion = "9.0.2"
+  ghcVersion = "9.4.2"
   ghcURL = "https://www.haskell.org/ghc/"
 
   # Note: speed at which text is displayed on the prompt
@@ -65,7 +65,7 @@ description = "Kevin Hammond's Portfolio!"
   # ghci> [profileDescriptionFcnName]
   # [description]
   #
-  userName = "khammond"
+  userName = "mingyuchoo"
   pcName = "glasgow"
   sysInfoFcnName = "getSystemInfo"
   profileDescriptionFcnName = "getProfileDescription"
@@ -74,7 +74,7 @@ description = "Kevin Hammond's Portfolio!"
   # description = "/description.md"
   # Note: and put the description.md in /content/description.md
   description = """
-  Hi I am Kevin Hammond!
+  Hi I am Mingyu Choo!
   Nice to meet you!
 
   """
@@ -91,8 +91,10 @@ description = "Kevin Hammond's Portfolio!"
   fcnName = "getActivity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR CONTENT FILE"]
   files = [
-    ["C", "https://www.iso-9899.info/wiki/The_Standard"],
-    ["Cmm", "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm"],
     ["Haskell", "https://www.haskell.org/"],
-    ["Lazy ML", "/posts/some-activity.org"],
+    ["Rust", "https://www.rust-lang.org/"],
+    ["TypeScript", "https://www.typescriptlang.org/"],
+    ["Python", "https://www.python.org/downloads/release/python-3100/"],
+    ["OCaml", "https://ocaml.org/"],
+    ["Elm", "https://elm-lang.org/"],
   ]
