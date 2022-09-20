@@ -1,0 +1,7 @@
+[submodule "themes/hugo-theme-ghci"]
+	path = themes/hugo-theme-ghci
+	url = git@github.com:mingyuchoo/hugo-theme-ghci.git
+[submodule "public"]
+	path = public
+	url = git@github.com:mingyuchoo/mingyuchoo.github.io.git
+	branch = main
