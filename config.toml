@@ -1,4 +1,4 @@
-baseURL = 'http://mingyuchoo.github.io/'
+baseURL = 'https://mingyuchoo.github.io/'
 title = 'mingyuchoo.github.io'
 theme = 'hugo-theme-ghci'
 languageCode = 'en-us'
